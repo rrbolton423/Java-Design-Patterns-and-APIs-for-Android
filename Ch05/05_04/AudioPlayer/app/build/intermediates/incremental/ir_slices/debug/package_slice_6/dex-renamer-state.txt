@@ -1,0 +1,4 @@
+#Sat May 12 00:36:01 EDT 2018
+base.0=/Users/romellbolton/Desktop/Ex_Files_Java_Android_Upd/Exercise Files/Ch05/05_04/AudioPlayer/app/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex

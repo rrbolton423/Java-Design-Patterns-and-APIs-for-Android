@@ -1,0 +1,4 @@
+#Mon May 07 01:32:44 EDT 2018
+base.0=/Users/romellbolton/Desktop/Ex_Files_Java_Android_Upd/Exercise Files/Ch03/03_07/AsyncFragment/app/build/intermediates/transforms/dexMerger/debug/2
+path.0=classes.dex
+renamed.0=classes.dex

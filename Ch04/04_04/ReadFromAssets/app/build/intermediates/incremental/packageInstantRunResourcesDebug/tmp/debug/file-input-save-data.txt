@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu May 10 14:03:51 EDT 2018
+0.baseType=DIRECTORY
+0.base=/Users/romellbolton/Desktop/Ex_Files_Java_Android_Upd/Exercise Files/Ch04/04_04/ReadFromAssets/app/build/intermediates/assets/debug
+0.path=lorem_ipsum.txt
+0.set=ASSET
+count=1
